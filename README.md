@@ -15,5 +15,5 @@
 3.FileZilla 
    window와 linux 간 파일 전송의 간편화 프로그램
    ![image](https://github.com/lee-young-jik/honey_tip/assets/91588673/1a1ad090-177b-4296-9579-3d53e7ef18b8)
-   <hr>
+
 
